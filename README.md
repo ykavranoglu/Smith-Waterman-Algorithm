@@ -2,7 +2,7 @@
 Smith-Waterman Algorithm's implementation in C++
 
 "The Smith–Waterman algorithm performs local sequence alignment; that is, for determining similar regions between two strings of nucleic acid sequences or protein sequences. Instead of looking at the entire sequence, the Smith–Waterman algorithm compares segments of all possible lengths and optimizes the similarity measure."
-Taken from: https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm
+Wikipedia contributors. (2021, May 16). Smith–Waterman algorithm. In Wikipedia, The Free Encyclopedia. Retrieved 16:35, May 22, 2021, from https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm
 
 Here, given examples are English words, instead of nucleic acid sequences, which are checked against other English words.
 
