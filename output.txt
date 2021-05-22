@@ -1,0 +1,380 @@
+ability - automata
+Score: 1 Sequence(s): "a" "t"
+ability - automative
+Score: 1 Sequence(s): "a" "i" "t"
+ability - certificate
+Score: 1 Sequence(s): "a" "i" "t"
+ability - compatibility
+Score: 6 Sequence(s): "bility"
+ability - component
+Score: 1 Sequence(s): "t"
+ability - conformity
+Score: 3 Sequence(s): "ity"
+ability - directive
+Score: 1 Sequence(s): "i" "t"
+ability - district
+Score: 1 Sequence(s): "i" "t"
+ability - examination
+Score: 1 Sequence(s): "a" "i" "t"
+ability - flammable
+Score: 2 Sequence(s): "ab"
+ability - fountain
+Score: 1 Sequence(s): "a" "i" "t"
+ability - funimatio
+Score: 1 Sequence(s): "a" "i" "t"
+ability - information
+Score: 1 Sequence(s): "a" "i" "t"
+ability - malfunction
+Score: 1 Sequence(s): "a" "i" "l" "t"
+ability - medication
+Score: 1 Sequence(s): "a" "i" "t"
+ability - paramedic
+Score: 1 Sequence(s): "a" "i"
+ability - personality
+Score: 4 Sequence(s): "lity"
+ability - predict
+Score: 1 Sequence(s): "i" "t"
+ability - qualify
+Score: 2 Sequence(s): "li"
+automata - automative
+Score: 7 Sequence(s): "automat"
+automata - certificate
+Score: 2 Sequence(s): "at"
+automata - compatibility
+Score: 2 Sequence(s): "at" "om"
+automata - component
+Score: 2 Sequence(s): "om"
+automata - conformity
+Score: 1 Sequence(s): "m" "o" "t"
+automata - directive
+Score: 1 Sequence(s): "t"
+automata - district
+Score: 1 Sequence(s): "t"
+automata - examination
+Score: 2 Sequence(s): "at"
+automata - flammable
+Score: 2 Sequence(s): "ma"
+automata - fountain
+Score: 2 Sequence(s): "ta"
+automata - funimatio
+Score: 3 Sequence(s): "mat"
+automata - information
+Score: 3 Sequence(s): "mat"
+automata - malfunction
+Score: 2 Sequence(s): "ma"
+automata - medication
+Score: 2 Sequence(s): "at"
+automata - paramedic
+Score: 1 Sequence(s): "a" "m"
+automata - personality
+Score: 1 Sequence(s): "a" "o" "t"
+automata - predict
+Score: 1 Sequence(s): "t"
+automata - qualify
+Score: 1 Sequence(s): "a" "u"
+automative - certificate
+Score: 2 Sequence(s): "at" "ti"
+automative - compatibility
+Score: 3 Sequence(s): "ati"
+automative - component
+Score: 2 Sequence(s): "om"
+automative - conformity
+Score: 1 Sequence(s): "i" "m" "o" "t"
+automative - directive
+Score: 4 Sequence(s): "tive"
+automative - district
+Score: 1 Sequence(s): "i" "t"
+automative - examination
+Score: 3 Sequence(s): "ati"
+automative - flammable
+Score: 2 Sequence(s): "ma"
+automative - fountain
+Score: 1 Sequence(s): "a" "i" "o" "t" "u"
+automative - funimatio
+Score: 4 Sequence(s): "mati"
+automative - information
+Score: 4 Sequence(s): "mati"
+automative - malfunction
+Score: 2 Sequence(s): "ma" "ti"
+automative - medication
+Score: 3 Sequence(s): "ati"
+automative - paramedic
+Score: 1 Sequence(s): "a" "e" "i" "m"
+automative - personality
+Score: 1 Sequence(s): "a" "e" "i" "o" "t"
+automative - predict
+Score: 1 Sequence(s): "e" "i" "t"
+automative - qualify
+Score: 1 Sequence(s): "a" "i" "u"
+certificate - compatibility
+Score: 2 Sequence(s): "at" "ti"
+certificate - component
+Score: 1 Sequence(s): "c" "e" "t"
+certificate - conformity
+Score: 1 Sequence(s): "c" "f" "i" "r" "t"
+certificate - directive
+Score: 2 Sequence(s): "ti"
+certificate - district
+Score: 2 Sequence(s): "ic"
+certificate - examination
+Score: 2 Sequence(s): "at" "ti"
+certificate - flammable
+Score: 1 Sequence(s): "a" "e" "f"
+certificate - fountain
+Score: 1 Sequence(s): "a" "f" "i" "t"
+certificate - funimatio
+Score: 2 Sequence(s): "at" "ti"
+certificate - information
+Score: 2 Sequence(s): "at" "ti"
+certificate - malfunction
+Score: 2 Sequence(s): "ti"
+certificate - medication
+Score: 4 Sequence(s): "icat"
+certificate - paramedic
+Score: 2 Sequence(s): "ic"
+certificate - personality
+Score: 2 Sequence(s): "er"
+certificate - predict
+Score: 2 Sequence(s): "ic"
+certificate - qualify
+Score: 2 Sequence(s): "if"
+compatibility - component
+Score: 4 Sequence(s): "comp"
+compatibility - conformity
+Score: 3 Sequence(s): "ity"
+compatibility - directive
+Score: 2 Sequence(s): "ti"
+compatibility - district
+Score: 1 Sequence(s): "c" "i" "t"
+compatibility - examination
+Score: 3 Sequence(s): "ati"
+compatibility - flammable
+Score: 1 Sequence(s): "a" "b" "l" "m"
+compatibility - fountain
+Score: 1 Sequence(s): "a" "i" "o" "t"
+compatibility - funimatio
+Score: 3 Sequence(s): "ati"
+compatibility - information
+Score: 3 Sequence(s): "ati"
+compatibility - malfunction
+Score: 2 Sequence(s): "ti"
+compatibility - medication
+Score: 3 Sequence(s): "ati"
+compatibility - paramedic
+Score: 2 Sequence(s): "pa"
+compatibility - personality
+Score: 4 Sequence(s): "lity"
+compatibility - predict
+Score: 1 Sequence(s): "c" "i" "p" "t"
+compatibility - qualify
+Score: 2 Sequence(s): "li"
+component - conformity
+Score: 2 Sequence(s): "co" "on"
+component - directive
+Score: 1 Sequence(s): "c" "e" "t"
+component - district
+Score: 1 Sequence(s): "c" "t"
+component - examination
+Score: 2 Sequence(s): "on"
+component - flammable
+Score: 1 Sequence(s): "e" "m"
+component - fountain
+Score: 2 Sequence(s): "nt"
+component - funimatio
+Score: 1 Sequence(s): "m" "n" "o" "t"
+component - information
+Score: 2 Sequence(s): "on"
+component - malfunction
+Score: 2 Sequence(s): "on"
+component - medication
+Score: 2 Sequence(s): "on"
+component - paramedic
+Score: 1 Sequence(s): "c" "e" "m" "p"
+component - personality
+Score: 2 Sequence(s): "on"
+component - predict
+Score: 1 Sequence(s): "c" "e" "p" "t"
+component - qualify
+Score: 0 Sequence(s):
+conformity - directive
+Score: 1 Sequence(s): "c" "i" "r" "t"
+conformity - district
+Score: 1 Sequence(s): "c" "i" "r" "t"
+conformity - examination
+Score: 2 Sequence(s): "mi" "on"
+conformity - flammable
+Score: 1 Sequence(s): "f" "m"
+conformity - fountain
+Score: 2 Sequence(s): "fo"
+conformity - funimatio
+Score: 1 Sequence(s): "f" "i" "m" "n" "o" "t"
+conformity - information
+Score: 5 Sequence(s): "nform"
+conformity - malfunction
+Score: 2 Sequence(s): "on"
+conformity - medication
+Score: 2 Sequence(s): "on"
+conformity - paramedic
+Score: 1 Sequence(s): "c" "i" "m" "r"
+conformity - personality
+Score: 3 Sequence(s): "ity"
+conformity - predict
+Score: 1 Sequence(s): "c" "i" "r" "t"
+conformity - qualify
+Score: 1 Sequence(s): "f" "i" "y"
+directive - district
+Score: 2 Sequence(s): "ct" "di"
+directive - examination
+Score: 2 Sequence(s): "ti"
+directive - flammable
+Score: 1 Sequence(s): "e"
+directive - fountain
+Score: 1 Sequence(s): "i" "t"
+directive - funimatio
+Score: 2 Sequence(s): "ti"
+directive - information
+Score: 2 Sequence(s): "ti"
+directive - malfunction
+Score: 3 Sequence(s): "cti"
+directive - medication
+Score: 2 Sequence(s): "di" "ti"
+directive - paramedic
+Score: 2 Sequence(s): "di"
+directive - personality
+Score: 1 Sequence(s): "e" "i" "r" "t"
+directive - predict
+Score: 2 Sequence(s): "ct" "di" "re"
+directive - qualify
+Score: 1 Sequence(s): "i"
+district - examination
+Score: 1 Sequence(s): "i" "t"
+district - flammable
+Score: 0 Sequence(s):
+district - fountain
+Score: 1 Sequence(s): "i" "t"
+district - funimatio
+Score: 1 Sequence(s): "i" "t"
+district - information
+Score: 1 Sequence(s): "i" "r" "t"
+district - malfunction
+Score: 2 Sequence(s): "ct"
+district - medication
+Score: 2 Sequence(s): "di" "ic"
+district - paramedic
+Score: 2 Sequence(s): "di" "ic"
+district - personality
+Score: 1 Sequence(s): "i" "r" "s" "t"
+district - predict
+Score: 3 Sequence(s): "ict"
+district - qualify
+Score: 1 Sequence(s): "i"
+examination - flammable
+Score: 2 Sequence(s): "am"
+examination - fountain
+Score: 2 Sequence(s): "in"
+examination - funimatio
+Score: 4 Sequence(s): "atio"
+examination - information
+Score: 5 Sequence(s): "ation"
+examination - malfunction
+Score: 4 Sequence(s): "tion"
+examination - medication
+Score: 5 Sequence(s): "ation"
+examination - paramedic
+Score: 2 Sequence(s): "am"
+examination - personality
+Score: 2 Sequence(s): "na" "on"
+examination - predict
+Score: 1 Sequence(s): "e" "i" "t"
+examination - qualify
+Score: 1 Sequence(s): "a" "i"
+flammable - fountain
+Score: 1 Sequence(s): "a" "f"
+flammable - funimatio
+Score: 2 Sequence(s): "ma"
+flammable - information
+Score: 2 Sequence(s): "ma"
+flammable - malfunction
+Score: 2 Sequence(s): "ma"
+flammable - medication
+Score: 1 Sequence(s): "a" "e" "m"
+flammable - paramedic
+Score: 2 Sequence(s): "am"
+flammable - personality
+Score: 1 Sequence(s): "a" "e" "l"
+flammable - predict
+Score: 1 Sequence(s): "e"
+flammable - qualify
+Score: 1 Sequence(s): "a" "f" "l"
+fountain - funimatio
+Score: 2 Sequence(s): "un"
+fountain - information
+Score: 2 Sequence(s): "fo" "in"
+fountain - malfunction
+Score: 2 Sequence(s): "un"
+fountain - medication
+Score: 1 Sequence(s): "a" "i" "n" "o" "t"
+fountain - paramedic
+Score: 1 Sequence(s): "a" "i"
+fountain - personality
+Score: 1 Sequence(s): "a" "i" "n" "o" "t"
+fountain - predict
+Score: 1 Sequence(s): "i" "t"
+fountain - qualify
+Score: 1 Sequence(s): "a" "f" "i" "u"
+funimatio - information
+Score: 5 Sequence(s): "matio"
+funimatio - malfunction
+Score: 3 Sequence(s): "fun" "tio"
+funimatio - medication
+Score: 4 Sequence(s): "atio"
+funimatio - paramedic
+Score: 1 Sequence(s): "a" "i" "m"
+funimatio - personality
+Score: 1 Sequence(s): "a" "i" "n" "o" "t"
+funimatio - predict
+Score: 1 Sequence(s): "i" "t"
+funimatio - qualify
+Score: 1 Sequence(s): "a" "f" "i" "u"
+information - malfunction
+Score: 4 Sequence(s): "tion"
+information - medication
+Score: 5 Sequence(s): "ation"
+information - paramedic
+Score: 1 Sequence(s): "a" "i" "m" "r"
+information - personality
+Score: 2 Sequence(s): "on"
+information - predict
+Score: 1 Sequence(s): "i" "r" "t"
+information - qualify
+Score: 1 Sequence(s): "a" "f" "i"
+malfunction - medication
+Score: 4 Sequence(s): "tion"
+malfunction - paramedic
+Score: 1 Sequence(s): "a" "c" "i" "m"
+malfunction - personality
+Score: 2 Sequence(s): "al" "on"
+malfunction - predict
+Score: 2 Sequence(s): "ct"
+malfunction - qualify
+Score: 2 Sequence(s): "al"
+medication - paramedic
+Score: 5 Sequence(s): "medic"
+medication - personality
+Score: 2 Sequence(s): "on"
+medication - predict
+Score: 4 Sequence(s): "edic"
+medication - qualify
+Score: 1 Sequence(s): "a" "i"
+paramedic - personality
+Score: 1 Sequence(s): "a" "e" "i" "p" "r"
+paramedic - predict
+Score: 4 Sequence(s): "edic"
+paramedic - qualify
+Score: 1 Sequence(s): "a" "i"
+personality - predict
+Score: 1 Sequence(s): "e" "i" "p" "r" "t"
+personality - qualify
+Score: 3 Sequence(s): "ali"
+predict - qualify
+Score: 1 Sequence(s): "i"
