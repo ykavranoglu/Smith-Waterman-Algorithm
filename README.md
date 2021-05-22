@@ -6,6 +6,6 @@ Wikipedia contributors. (2021, May 16). Smith–Waterman algorithm. In Wikipedia
 
 Here, given examples are English words, instead of nucleic acid sequences, which are checked against other English words.
 
-The program takes a txt file as input and calculates the similarity score for each uniqe word pair. Then writes the sequence which gets the highest similarity score for each pair to the output txt file. Given input.txt and output.txt files should be examined. An object oriented approach is used, where each pair is an object of the class "Pair".
+The program takes a txt file as input and calculates the similarity score for each uniqe word pair. Then writes the sequence which gets the highest similarity score for each pair to the output txt file. Given input.txt and output.txt files should be examined. An object oriented approach is used where each pair is an object of the class "Pair".
 
 The program should take two command arguments, first one is the name of the input file and second one is the name of the output file. Ex: "input.txt output.txt"
